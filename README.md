@@ -9,11 +9,6 @@
  - geojson版本路径：`geojson/geojson/*.json`
  - svg版本路径：`svg/svg/*.svg`
 
-地图来源：
-
- - geojson取自[国家地理信息公共服务平台-天地图](http://www.tianditu.cn/)中的[综合服务](http://zhfw.tianditu.com/)
- - svg取自民政部网站，网站默认展示swf格式地图，故svg可能存在过期的风险。（另外，部分svg格式错误，需要人工调整）
-
 ## 代码运行
 Python版本请确保在3.0以上。
 
